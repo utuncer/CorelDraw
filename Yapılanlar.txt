@@ -1,0 +1,4 @@
+3 noktalı, dörtgen ve elips
+artistik medya -> hazır sette örnek fırçalar, vektör fırça
+nesneleri artistik medyayla değiştirmek (nesneyi seç fırçayı değiştir)
+ 
